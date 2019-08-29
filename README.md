@@ -1,2 +1,2 @@
 # Movie-Review-Sentiment-Analysis
-Sentimaent Analysis
+Sentiment Analysis
